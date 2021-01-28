@@ -1,0 +1,11 @@
+Introduction/Business Problem
+In this project we will help people who are looking for to buy area for building a house. 
+Our analysis should show how much should you invest in area if you want to live 5km, 10km or 15km from city.
+How big area for which price client can by.
+Should the client to look at areas at south or west from the city center.
+
+
+Data
+The data about area for sale (such as  price, size, street) is collected by scraping local website www.aruodas.lt. 
+Coordinates for each area are colected using geolocator and from cordinates we calculate distance from city center. 
+Using Foursquare we collect information about closest Venues (supermarkets, restaurants, parks).
